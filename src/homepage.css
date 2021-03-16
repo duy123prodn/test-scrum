@@ -4,6 +4,7 @@
     align-items: stretch;
   }
   .icon-twitter{
+    background-image: url('');
   }
   .list-icon{
     display: flex;
